@@ -30,8 +30,9 @@
   - This introduction to quantum computing will cover the key principles of quantum information science and how they relate to quantum computing as well as the notation and operations used in QIS. We will then take these building blocks and linear algebra principles to build up to several quantum algorithms and complete several quantum programs using a mainstream quantum programming language.
   - Repository to be updated
 
+### Currently Taking Courses at the University of Chicago
 <details>
-  <summary>  Previous Took Courses at the University of Chicago </summary>
+  <summary>  Click to view more </summary>
 
 - CMSC 15100: Introduction to Computer Science I
   - This sequence, which is recommended for all students planning to take more advanced courses in computer science, introduces computer science mostly through the study of programming in functional (Scheme) and imperative (C) programming languages. Topics include program design, control and data abstraction, recursion and induction, higher-order programming, types and polymorphism, time and space analysis, memory management, and data structures including lists, trees, and graphs.
