@@ -6,8 +6,10 @@
 - Expected graduation date: June 2023
 - Email me at: gypark23@uchicago.edu
 <br>
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <br />
 
 ### Skills and Tools:
