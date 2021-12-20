@@ -41,7 +41,7 @@
 - **CMSC 15200: Introduction to Computer Science II**
   - This sequence, which is recommended for all students planning to take more advanced courses in computer science, introduces computer science mostly through the study of programming in functional (Scheme) and imperative (C) programming languages. Topics include program design, control and data abstraction, recursion and induction, higher-order programming, types and polymorphism, time and space analysis, memory management, and data structures including lists, trees, and graphs. 
   - [Repository](https://github.com/gypark23/CS152)
-- **CMSC 15400: Introduction to Computer Systems**
+- **[CMSC 15400: Introduction to Computer Systems](https://sites.google.com/site/cs154uchicago)**
   - This course covers the basics of computer systems from a programmer's perspective. Topics include data representation, machine language programming, exceptions, memory systems, and being the client of an operating system. Our goal is to help students be more effective programmers and to prepare students for advanced systems courses, such as architecture, compilers, operating systems, and networks. The course involves homeworks, exams, labs, and programming projects. Proficiency in C programming is assumed, as per the course pre-requisites.
   - [Repository](https://github.com/gypark23/CS154)
 - **[CMSC 22000: Introduction to Software Development](https://uchicago-cs.github.io/cmsc22000/)**
