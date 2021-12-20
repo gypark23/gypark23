@@ -13,7 +13,7 @@
 
 ### Skills and Tools:
 
-- Programming Languages: C, C++, Java, Racket
+- Programming Languages: C, C++, Java
 - Software: MS Excel
 - Currently Learning: R, SQL, Quantum Computing, Computer Architecture 
 
@@ -30,7 +30,8 @@
   - This introduction to quantum computing will cover the key principles of quantum information science and how they relate to quantum computing as well as the notation and operations used in QIS. We will then take these building blocks and linear algebra principles to build up to several quantum algorithms and complete several quantum programs using a mainstream quantum programming language.
   - Repository to be updated
 
-### Previous Took Courses at the University of Chicago
+<details>
+  <summary>  Previous Took Courses at the University of Chicago </summary>
 
 - CMSC 15100: Introduction to Computer Science I
   - This sequence, which is recommended for all students planning to take more advanced courses in computer science, introduces computer science mostly through the study of programming in functional (Scheme) and imperative (C) programming languages. Topics include program design, control and data abstraction, recursion and induction, higher-order programming, types and polymorphism, time and space analysis, memory management, and data structures including lists, trees, and graphs.
@@ -48,9 +49,7 @@
   - This course is recommended for students throughout the natural and social sciences who want a broad background in statistical methodology and exposure to probability models and the statistical concepts underlying the methodology. Probability is developed for the purpose of modeling outcomes of random phenomena. Random variables and their expectations are studied; including means and variances of linear combinations and an introduction to conditional expectation. Binomial, Poisson, normal and other standard probability distributions are considered. Some probability models are studied mathematically, and others are studied via computer simulation. Sampling distributions and related statistical methods are explored mathematically, studied via simulation, and illustrated on data. Methods include, but are not limited to, inference for means and proportions for one- and two-sample problems, two-way tables, correlation, and simple linear regression. Graphical and numerical data description are used for exploration, communication of results, and comparing mathematical consequences of probability models and data. Mathematics employed is to the level of single-variable differential and integral calculus and sequences and series.
   - [Repository](https://github.com/gypark23/STAT234)
 
-
-
----
+</details>
 
 [email]: mailto:gypark23@uchicago.edu
 [linkedin]: https://linkedin.com/in/codeSTACKr
