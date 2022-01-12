@@ -29,7 +29,7 @@
   - Repository to be updated
 - **CMSC 22880: Introduction to Quantum Computing**
   - This introduction to quantum computing will cover the key principles of quantum information science and how they relate to quantum computing as well as the notation and operations used in QIS. We will then take these building blocks and linear algebra principles to build up to several quantum algorithms and complete several quantum programs using a mainstream quantum programming language.
-  - Repository to be updated
+  - [Repository](https://github.com/gypark23/CS228)
 
 ### Previously Took Courses at the University of Chicago
 <details>
