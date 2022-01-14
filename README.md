@@ -26,7 +26,7 @@
 
 - **CMSC 22240: Computer Architecture for Scientists**
   - Designed to provide an understanding of the key scientific ideas that underpin the extraordinary capabilities of today's computers, including speed (gigahertz), illusion of sequential order (relativity), dynamic locality (warping space), parallelism, keeping it cheap - and low-energy (e-field scaling), and of course their ability as universal information processing engines. These scientific "miracles" are robust, and provide a valuable longer-term understanding of computer capabilities, performance, and limits to the wealth of computer scientists practicing data science, software development, or machine learning.
-  - Repository to be updated
+  - [Repository](https://github.com/gypark23/CS222)
 - **CMSC 22880: Introduction to Quantum Computing**
   - This introduction to quantum computing will cover the key principles of quantum information science and how they relate to quantum computing as well as the notation and operations used in QIS. We will then take these building blocks and linear algebra principles to build up to several quantum algorithms and complete several quantum programs using a mainstream quantum programming language.
   - [Repository](https://github.com/gypark23/CS228)
