@@ -20,7 +20,7 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gypark23&exclude_repo=CS151&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gypark23&langs_count=8)
 
 ---
 
