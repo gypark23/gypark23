@@ -1,18 +1,13 @@
 ## Kyu Y. Park 👋 
 
-Hello! I am Kyu, and I am a rising fourth-year (Class of 2023) studying Computer Science and Economics at the University of Chicago. I am currently looking for SWE/PM roles after graduation, hoping to work at Tech/FinTech industry! I am interested in  
+Hello! I am Kyu, and I am a rising fourth-year (Class of 2023) studying Computer Science and Economics at the University of Chicago. I am currently looking for SWE/PM roles after graduation, hoping to work at Tech/FinTech industry! I am interested in desktop/mobile application development, game development and full-stack development, where I could build useful products that could be utilized and loved by many people!   
 
 ### Student at the University of Chicago
 
 - B.S. in Computer Science and B.A. in Economics
 - Expected graduation date: June 2023
 - Email me at: gypark23@uchicago.edu
-<br>
-[![Kyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gypark23)](https://github.com/gypark23)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email] [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Skills and Tools:
 
@@ -20,9 +15,10 @@ Hello! I am Kyu, and I am a rising fourth-year (Class of 2023) studying Computer
 - **Software:** Microsoft Office, Google Suite, Domo 
 - **Currently Learning:** R, Quantum Computing, Computer Systems & Architecture, Machine Learning
 
-<br />
+### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gypark23&layout=compact&langs_count=8)
+[![Kyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gypark23&include_all_commits=true&hide=contribs&count_private=true)](https://github.com/gypark23)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gypark23&langs_count=8)
 
 ---
 
