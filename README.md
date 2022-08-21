@@ -13,7 +13,7 @@ Hello! I am Kyu, and I am a rising fourth-year (Class of 2023) studying Computer
 
 - **Programming Languages:** C, Python, C++, Java
 - **Software:** Microsoft Office, Google Suite, Domo 
-- **Currently Learning:** R, Quantum Computing, Computer Systems & Architecture, Machine Learning
+- **Currently Learning:** AWS Practicing, R, Computer Systems & Architecture, Machine Learning
 
 ### Stats
 [![Kyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gypark23&include_all_commits=true&hide=contribs&count_private=true)](https://github.com/gypark23)
