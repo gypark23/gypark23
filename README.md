@@ -16,8 +16,9 @@ Hello! I am Kyu, and I am a rising fourth-year (Class of 2023) studying Computer
 - **Currently Learning:** R, Quantum Computing, Computer Systems & Architecture, Machine Learning
 
 ### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gypark23&layout=compact&langs_count=8)
 [![Kyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gypark23&include_all_commits=true&hide=contribs&count_private=true)](https://github.com/gypark23)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gypark23&layout=compact&langs_count=8)
+
 
 
 ---
