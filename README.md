@@ -16,8 +16,8 @@ Hello! I am Kyu, and I am a rising fourth-year (Class of 2023) studying Computer
 - **Currently Learning:** AWS Practicing, R, Computer Systems & Architecture, Machine Learning
 
 ### Stats
-[![Kyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gypark23&include_all_commits=true&hide=contribs&count_private=true)](https://github.com/gypark23)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gypark23&layout=compact&langs_count=10)
+[![Kyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gypark23&include_all_commits=false&hide=contribs&count_private=true)](https://github.com/gypark23)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gypark23&layout=compact&langs_count=10&exclude_repo=FitnessVR)
 
 
 
